@@ -29,7 +29,7 @@ A full-stack Django application for the Little Lemon restaurant, featuring a rob
 
 3. **Install dependencies**:
    ```bash
-   pip install django djangorestframework djoser
+   pip install -r requirements.txt
    ```
 
 4. **Run migrations**:
